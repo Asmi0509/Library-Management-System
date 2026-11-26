@@ -97,6 +97,11 @@ Follow these step-by-step instructions to run the application on your computer:
    C:\xampp\htdocs\Library-management-system-main\
    ```
    *(Ensure files like `index.php` are directly inside `C:\xampp\htdocs\Library-management-system-main\`)*
+   2. Create a folder called assets , create two more sub folders called Css and Js , add style.css file in css folder and script.js in js folder
+   3. create config folder and add database.php file in it
+   4. create database folder and add library.sql
+   5. create includes folder and add auth.php, footer.php and header.php files in it
+   NOTE : ALL THE FILES ARE INCLUDED IN THE ZIP , JUST CREATE THE FOLDERS AS INSTRUCTED IN THE LIBRARY MANAGEMENT MAIN FOLDER. (THIS IS THE MOST IMPORTANT STEP ) 
 
 ### Step 3: Create Database & Import SQL
 1. Open your web browser and navigate to **phpMyAdmin**:
