@@ -1,0 +1,15 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs & archives
+*.log
+*.zip
+*.tar.gz
+
+# Local environment overrides
+.env
+config/database.local.php
